@@ -5,9 +5,10 @@ require 'pry'
 # print all of the names of the characters
  
  def print_names(data)
+   binding.pry
    # get the array of characters
    # iterate over each character
    #print the name of that character
  end
 
-binding.pry
+print_names(star_wars_data)
