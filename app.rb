@@ -5,7 +5,6 @@ require 'pry'
 # print all of the names of the characters
  
  def print_names(data)
-   binding.pry
    # get the array of characters
    characters = data["results"]
    # iterate over each character
