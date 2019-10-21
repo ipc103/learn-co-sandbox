@@ -7,7 +7,10 @@ require 'pry'
  def print_names(data)
    binding.pry
    # get the array of characters
+   characters = data["results"]
    # iterate over each character
+   characters.each do |character|
+   end
    #print the name of that character
  end
 
