@@ -14,3 +14,7 @@ require 'pry'
  end
 
 print_names(star_wars_data)
+
+def character_height(name, data)
+  
+end
