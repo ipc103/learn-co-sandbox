@@ -11,7 +11,7 @@ require 'pry'
    # iterate over each character
    characters.each do |character|
    #print the name of that character
- end
+   end
  end
 
 print_names(star_wars_data)
