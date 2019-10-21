@@ -16,7 +16,8 @@ require 'pry'
 print_names(star_wars_data)
 
 def character_height(name, data)
-  
+  # find the character whose name matches the given name
+  # return the height of that character
 end
 
 character_height("C-3PO", data)
