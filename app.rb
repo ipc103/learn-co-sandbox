@@ -10,8 +10,8 @@ require 'pry'
    characters = data["results"]
    # iterate over each character
    characters.each do |character|
-   end
    #print the name of that character
+ end
  end
 
 print_names(star_wars_data)
