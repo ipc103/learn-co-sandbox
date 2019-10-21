@@ -23,6 +23,7 @@ def character_height(name, data)
     character["name"] == name
   end
   # return the height of that character
+  character["name"]
 end
 
 character_height("C-3PO", data)
