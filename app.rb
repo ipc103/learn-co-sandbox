@@ -26,4 +26,4 @@ def character_height(name, data)
   character["name"]
 end
 
-character_height("C-3PO", star_wars_data)
+print character_height("C-3PO", star_wars_data)
