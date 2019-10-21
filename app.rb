@@ -4,6 +4,7 @@ require 'pry'
  
  
  def print_names(data)
+   # print all of the names of the characters
  end
 
 binding.pry
