@@ -10,7 +10,7 @@ require 'pry'
    characters = data["results"]
    # iterate over each character
    characters.each do |character|
-   #print the name of that character
+     puts character["name"]
    end
  end
 
