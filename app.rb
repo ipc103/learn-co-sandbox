@@ -18,3 +18,5 @@ print_names(star_wars_data)
 def character_height(name, data)
   
 end
+
+character_height("C-3PO", data)
